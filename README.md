@@ -94,12 +94,5 @@ git push origin YourBranchName
 
 **11.** **Congratulations!** You've made your first contribution! 🙌🏼
 
-
-
-## All the best! 🥇
-
-<p align="center">
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
-
-</p>
+---
+---
