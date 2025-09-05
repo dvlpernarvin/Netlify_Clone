@@ -103,4 +103,3 @@ git push origin YourBranchName
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
 
 </p>
-#Netlify_Clone
